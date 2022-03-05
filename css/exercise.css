@@ -1644,7 +1644,8 @@ img {
 @media (max-width: 767px) {
   /* ==================Header================ */
   .header__menu .header__link {
-    font-size: 24px;
+    font-size: 20px;
+    padding: 7px 0;
   }
   /* ===================Hero================= */
   .container-hero .hero {
